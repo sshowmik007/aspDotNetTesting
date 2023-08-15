@@ -49,7 +49,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
-      run: dotnet publish aspDotNetTesting/sample-app-razorpages/sample-app-razorpages.csproj -c Release -o website
+      run: dotnet publish sample-app-razorpages/sample-app-razorpages.csproj -c Release -o website
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v3
       with:
