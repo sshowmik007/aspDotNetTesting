@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\Core-icons.eot",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\Core-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\Core-icons.svg",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\Core-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\Core-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\Core-icons.woff",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\Core-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\PTSerif-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\SourceSansPro-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\SourceSansPro-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\SourceSansPro-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\WorkSans-Bold.woff2",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\WorkSans-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\WorkSans-Medium.woff2",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\WorkSans-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Fonts\\WorkSans-Regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\Fonts\\WorkSans-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Images\\404.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Images\\facebook-icon.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\facebook-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Images\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\twitter-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Checkout.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Checkout.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Controls.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Controls.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\EditMode.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\EditMode.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Fonts.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Fonts.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Gallery.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Gallery.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Grid.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Grid.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Menu.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Menu.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Products.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Products.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Site.css",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Site.css"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\Site.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\Site.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\YourAccount.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\YourAccount.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\icons-core.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\icons-core.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\Styles\\variables.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Content\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\_references.js",
+      "PackagePath": "staticwebassets\\Scripts\\_references.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\formAutoPost.js",
+      "PackagePath": "staticwebassets\\Scripts\\formAutoPost.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.intellisense.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.intellisense.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.min.map",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.slim.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.slim.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery-3.1.1.slim.min.map",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.1.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\map.js",
+      "PackagePath": "staticwebassets\\Scripts\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\modernizr-2.6.2.js",
+      "PackagePath": "staticwebassets\\Scripts\\modernizr-2.6.2.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\modernizr-2.8.3.js",
+      "PackagePath": "staticwebassets\\Scripts\\modernizr-2.8.3.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\respond.js",
+      "PackagePath": "staticwebassets\\Scripts\\respond.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\respond.matchmedia.addListener.js",
+      "PackagePath": "staticwebassets\\Scripts\\respond.matchmedia.addListener.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\respond.matchmedia.addListener.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\respond.matchmedia.addListener.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\Scripts\\respond.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SadmanShowmik\\Downloads\\sample-app-razorpages-master\\sample-app-razorpages-master\\sample-app-razorpages\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.sample-app-razorpages.props",
+      "PackagePath": "build\\sample-app-razorpages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.sample-app-razorpages.props",
+      "PackagePath": "buildMultiTargeting\\sample-app-razorpages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.sample-app-razorpages.props",
+      "PackagePath": "buildTransitive\\sample-app-razorpages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.sample-app-razorpages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
