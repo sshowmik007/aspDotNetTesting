@@ -50,11 +50,6 @@ jobs:
       run: dotnet test --no-build --verbosity normal
     - name: Publish
       run: dotnet publish sample-app-razorpages/sample-app-razorpages.csproj -c Release -o website
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v3.1.2
-      with:
-        name: website
-        path: sample-app-razorpages/website/**
-        if-no-files-found: error
+    
 
     
