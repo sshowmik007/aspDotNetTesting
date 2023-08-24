@@ -18,8 +18,8 @@ namespace TestProject2
             // Act
             int result = Math.Add(a, b);
 
-            // Assert (Intentionally failing assertion)
-            Assert.Equal(6, result);  // This should fail
+            // Assert (Passing assertion)
+            Assert.Equal(5, result);
         }
 
         [Fact]
@@ -32,8 +32,8 @@ namespace TestProject2
             // Act
             int result = Math.Add(a, b);
 
-            // Assert (Intentionally failing assertion)
-            Assert.Equal(-6, result);  // This should fail
+            // Assert (Passing assertion)
+            Assert.Equal(-5, result);
         }
 
         [Fact]
@@ -46,7 +46,7 @@ namespace TestProject2
             // Act
             int result = Math.Add(a, b);
 
-            // Assert (Intentionally failing assertion)
+            // Assert (Failing assertion)
             Assert.Equal(1, result);  // This should fail
         }
 
@@ -60,8 +60,8 @@ namespace TestProject2
             // Act
             int result = Math.Add(a, b);
 
-            // Assert (Intentionally failing assertion)
-            Assert.Equal(int.MaxValue - 1, result);  // This should fail
+            // Assert (Passing assertion)
+            Assert.Equal(int.MaxValue, result);
         }
 
         [Fact]
@@ -74,8 +74,8 @@ namespace TestProject2
             // Act
             int result = Math.Add(a, b);
 
-            // Assert (Intentionally failing assertion)
-            Assert.Equal(int.MinValue + 1, result);  // This should fail
+            // Assert (Failing assertion)
+            Assert.Equal(int.MinValue, result);  // This should fail
         }
     }
 }
